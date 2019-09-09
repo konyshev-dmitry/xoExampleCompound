@@ -1,0 +1,15 @@
+[submodule "xoCore"]
+	path = xoCore
+	url = https://github.com/konyshev-dmitry/xoCore.git
+[submodule "xoTools"]
+	path = xoTools
+	url = https://github.com/konyshev-dmitry/xoTools.git
+[submodule "xoExampleCorePlugin"]
+	path = xoExampleCorePlugin
+	url = https://github.com/konyshev-dmitry/xoExampleCorePlugin.git
+[submodule "xoModules/xoExampleModuleApp"]
+	path = xoModules/xoExampleModuleApp
+	url = https://github.com/konyshev-dmitry/xoExampleModuleApp.git
+[submodule "xoRDE"]
+	path = xoRDE
+	url = https://github.com/konyshev-dmitry/xoRDE.git
